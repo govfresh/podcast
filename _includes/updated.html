@@ -1,0 +1,15 @@
+{% if page.modified or post.modified or item.modified %}
+  <p class="small text-body-secondary mb-0">
+    <small>
+      <i class="fa-regular fa-calendar-check"></i>
+      Updated:
+      {% if item.modified %}
+        {{ item.modified | date: site.date }}
+      {% elsif post.modified %}
+        {{ post.modified | date: site.date }}
+      {% elsif page.modified %}
+        {{ page.modified | date: site.date }}
+      {% endif %}
+    </small>
+  </p>
+{% endif %}

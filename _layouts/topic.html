@@ -1,0 +1,48 @@
+---
+layout: topic
+---
+
+{% include header.html %}
+{% include nav.html %}
+{% include breadcrumb.html %}
+<main>
+  {% include jumbotron.html %}
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="home-include">
+          {% for collection in site.data.topics.docs %}
+            {% assign items = site[collection] | where: "categories", page.title | reverse %} {% assign size = items | size %}
+            {% if size > 0 %}
+              {% assign page-to-include = "card-" | append: collection %}
+              {% if collection == "posts" %}
+                {% assign page-to-include = "card-signal" %}
+              {% elsif collection == "research" %}
+                {% assign page-to-include = "card-research" %}
+              {% endif %}
+              <div class="preview {% unless collection == site.collections[0] %}{% endunless %} {% if collection == 'posts' %}signal{% else %}{{ collection }}{% endif %}">
+                <h2>
+                  {% if collection == 'posts' %}Signal
+                  {% elsif collection == 'dm' %}
+                    Direct message
+                  {% elsif collection == 'orgs' %}
+                    Organizations
+                  {% else %}
+                    {{ collection | capitalize }}
+                  {% endif %}
+                </h2>
+                <div class="card-group mt-4 mb-5 border-bottom pb-4 {% unless 'ideas' or collection == 'reviews' or collection == 'podcast' %}{% endunless %}">
+                  {% for item in items %}
+                    {% include {{ page-to-include | append: ".html" }} %}
+                  {% endfor %}
+                </div>
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+{% include analytics.html %}
+{% include footer.html %}

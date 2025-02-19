@@ -1,0 +1,29 @@
+{
+    "@context": "https://schema.org",
+    "@type": "PodcastEpisode",
+    "name": "{{ page.title }}",
+    "description": "{{ page.description }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "datePublished": "{{ page.date }}",
+    "duration": "{{ page.duration }}",
+    "partOfSeries": {
+        "@type": "PodcastSeries",
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}"
+    },
+    "thumbnailUrl": "{{ site.url }}/assets/img/people/{{ page.img-cover }}",
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ page.author }}",
+        "url": "{{ site.parent-url }}"
+    },
+    "audio": {
+        "@type": "AudioObject",
+        "contentUrl": "{{ site.url }}/assets/audio/{{ page.audio }}",
+        "encodingFormat": "audio/mpeg"
+    },
+    "inLanguage": "en",
+    "keywords": "{{ page.categories | join: ', ' }}",
+    "episodeNumber": "{{ page.number }}",
+    "isAccessibleForFree": true
+}

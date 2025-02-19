@@ -1,0 +1,74 @@
+# General
+title: The GovFresh Podcast
+description: "Design. Technology. Democracy."
+url: https://podcast.govfresh.com
+parent: GovFresh
+parent-url: https://govfresh.com
+author: GovFresh
+email: podcast@govfresh.com
+
+# Social
+social:
+  name: GovFresh
+  links:
+    - https://twitter.com/govfresh
+    - https://www.facebook.com/govfresh
+    - https://www.linkedin.com/company/govfresh
+    - https://github.com/govfresh
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Date/time
+date: "%B %-d, %Y"
+timezone: America/Los_Angeles
+
+last-modified-at:
+date-format: "%B %d, %Y at %I:%M %P %Z"
+
+# Feed
+feed:
+  path: /feed.xml
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "episode"
+      permalink: episode/:title
+      schematype: "PodcastSeries"
+  - scope:
+      path: "_topics"
+      type: "topics"
+    values:
+      folder: "Topics"
+      img-path: "people"
+      parent: "topics"
+      layout: "topic"
+      short: "false"
+      
+collections:
+  pages:
+    output: true
+    permalink: :title
+  topics:
+    output: true
+    permalink: topics/:title/
+    
+# Pagination    
+paginate: 20
+paginate_path: "/episodes/page:num"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock

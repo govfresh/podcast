@@ -1,0 +1,33 @@
+{% if page.audio %}
+  <div class="border drop-shadow2 mb-4 pt-2 px-3">
+    <h2 class="mb-0 pb-3">Listen</h2>
+    <script src="{{ site.baseurl }}/js/plyr.js"></script>
+    <audio id="player" controls>
+      {% if page.layout == "research" %}
+        <source src="{{ site.url }}/assets/audio/{{ page.audio }}" type="audio/mp3">
+      {% else %}
+        <source src="{{ site.baseurl }}/assets/audio/{{ page.audio }}" type="audio/mp3">
+      {% endif %}
+    </audio>
+    <script>
+              const plyr = new Plyr('audio', {
+                  controls: [
+                      'play',
+                      'progress',
+                      'current-time',
+                      'duration',
+                      'mute',
+                      'volume'
+                  ]
+              });
+    </script>
+    <p class="small text-body-secondary">
+      Subscribe:
+      {% for item in site.data.subscribe.docs %}
+        <a href="{{ item.url }}" class="link-primary link-offset-3 link-underline-opacity-0 link-underline-opacity-0-hover">
+          <i class="{{ item.icon }}" aria-label="{{ item.title }}"></i>
+          {{ item.title }}</a>
+      {% endfor %}
+    </p>
+  </div>
+{% endif %}

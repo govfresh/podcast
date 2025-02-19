@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>The GovFresh Podcast</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Design. Technology. Democracy.</description>
+    <language>en-us</language>
+    <copyright>2025 GovFresh</copyright>
+    <itunes:author>GovFresh</itunes:author>
+    <itunes:summary>Design. Technology. Democracy.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://localhost:4000/assets/img/avatar.png" />
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:category text="Government" />
+    <itunes:category text="Technology" />
+    <itunes:owner>
+      <itunes:name>GovFresh</itunes:name>
+      <itunes:email>podcast@govfresh.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>Civic hacking with Carlos Moreno</title>
+      <description>A citizen journalist and civic technologist shares his experiences and lessons learned civic hacking.</description>
+      <link>http://localhost:4000/episode/civic-hacking-carlos-moreno</link>
+      <guid>http://localhost:4000/episode/civic-hacking-carlos-moreno</guid>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>A citizen journalist and civic technologist shares his experiences and lessons learned civic hacking.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>46:25</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/episode-carlos-moreno.png" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/govfresh-podcast-10.mp3" type="audio/mpeg" length="44566070" />
+      <spotify:audio url="http://localhost:4000/assets/audio/govfresh-podcast-10.mp3" />
+    </item>
+    
+    <item>
+      <title>Civic hacking with Steve Spiker</title>
+      <description>A pioneering civic technologist retrospects and shares his thoughts on hacking government for good.</description>
+      <link>http://localhost:4000/episode/civic-hacking-steve-spiker</link>
+      <guid>http://localhost:4000/episode/civic-hacking-steve-spiker</guid>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>A pioneering civic technologist retrospects and shares his thoughts on hacking government for good.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>01:02:57</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-9.mp3" type="audio/mpeg" length="60438907" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-9.mp3" />
+    </item>
+    
+    <item>
+      <title>How government can bring mindfulness to law enforcement</title>
+      <description>The Government We Need talks with Mindful Badge's Richard Goerling about mindful policing.</description>
+      <link>http://localhost:4000/episode/how-government-can-bring-mindfulness-to-law-enforcement</link>
+      <guid>http://localhost:4000/episode/how-government-can-bring-mindfulness-to-law-enforcement</guid>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 -0800</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>The Government We Need talks with Mindful Badge's Richard Goerling about mindful policing.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>56:02</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-8.mp3" type="audio/mpeg" length="53789176" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-8.mp3" />
+    </item>
+    
+    <item>
+      <title>How government can design a human-centered social safety net</title>
+      <description>The Government We Need talks with Amanda Renteria about getting public benefits to people in the digital age.</description>
+      <link>http://localhost:4000/episode/how-government-can-design-a-human-centered-social-safety-net</link>
+      <guid>http://localhost:4000/episode/how-government-can-design-a-human-centered-social-safety-net</guid>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 -0800</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>The Government We Need talks with Amanda Renteria about getting public benefits to people in the digital age.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>28:56</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-7.mp3" type="audio/mpeg" length="41675463" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-7.mp3" />
+    </item>
+    
+    <item>
+      <title>How government can make public budgeting more participatory</title>
+      <description>Shari Davis talks with The Government We Need about building a more inclusive, democratic public budgeting process.</description>
+      <link>http://localhost:4000/episode/how-government-can-make-public-budgeting-more-participatory</link>
+      <guid>http://localhost:4000/episode/how-government-can-make-public-budgeting-more-participatory</guid>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>Shari Davis talks with The Government We Need about building a more inclusive, democratic public budgeting process.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>35:58</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-6.mp3" type="audio/mpeg" length="51792375" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-6.mp3" />
+    </item>
+    
+    <item>
+      <title>How government can support climate action</title>
+      <description>The Government We Need talks with Rick Cole about local government's role in sustainability.</description>
+      <link>http://localhost:4000/episode/how-government-can-support-climate-action</link>
+      <guid>http://localhost:4000/episode/how-government-can-support-climate-action</guid>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>The Government We Need talks with Rick Cole about local government's role in sustainability.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>57:04</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-5.mp3" type="audio/mpeg" length="82181351" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-5.mp3" />
+    </item>
+    
+    <item>
+      <title>How government can find its purpose</title>
+      <description>The Government We Need talks with Brian Elms about how government can ask the right questions and find its true public service purpose.</description>
+      <link>http://localhost:4000/episode/how-government-can-find-its-purpose</link>
+      <guid>http://localhost:4000/episode/how-government-can-find-its-purpose</guid>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>The Government We Need talks with Brian Elms about how government can ask the right questions and find its true public service purpose.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>51:21</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-4.mp3" type="audio/mpeg" length="73940868" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-4.mp3" />
+    </item>
+    
+    <item>
+      <title>How we can code a better government</title>
+      <description>The Government We Need talks with Code for America founder Jen Pahlka about how technology can be a force for civic change.</description>
+      <link>http://localhost:4000/episode/how-we-can-code-a-better-government</link>
+      <guid>http://localhost:4000/episode/how-we-can-code-a-better-government</guid>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>The Government We Need talks with Code for America founder Jen Pahlka about how technology can be a force for civic change.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>44:45</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-3.mp3" type="audio/mpeg" length="64454030" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-3.mp3" />
+    </item>
+    
+    <item>
+      <title>How we can bring more diversity into elected office</title>
+      <description>The Government We Need talks with Run for Something’s Sarah Horvitz about the changing face of local politics and how to elect diverse representation.</description>
+      <link>http://localhost:4000/episode/how-we-can-bring-more-diversity-into-elected-office</link>
+      <guid>http://localhost:4000/episode/how-we-can-bring-more-diversity-into-elected-office</guid>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>The Government We Need talks with Run for Something’s Sarah Horvitz about the changing face of local politics and how to elect diverse representation.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>29:14</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-2.mp3" type="audio/mpeg" length="42091124" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-2.mp3" />
+    </item>
+    
+    <item>
+      <title>How government can secure us in the internet+ era</title>
+      <description>The Government We Need talks with Bruce Schneier about internet+ security and government’s role in keeping us safe.</description>
+      <link>http://localhost:4000/episode/how-government-can-secure-us-in-the-internet-era</link>
+      <guid>http://localhost:4000/episode/how-government-can-secure-us-in-the-internet-era</guid>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>The Government We Need talks with Bruce Schneier about internet+ security and government’s role in keeping us safe.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>35:58</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/tgwn-1.mp3" type="audio/mpeg" length="51792375" />
+      <spotify:audio url="http://localhost:4000/assets/audio/tgwn-1.mp3" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+docs_list_title: subscribe
+docs:
+
+ - title: Apple
+   url: https://podcasts.apple.com/us/podcast/the-govfresh-podcast/id1468169431
+   icon: fa-brands fa-apple
+
+ - title: Spotify
+   url: https://open.spotify.com/show/7jZIZh0oxJeq9jPheo9eJq
+   icon: fa-brands fa-spotify

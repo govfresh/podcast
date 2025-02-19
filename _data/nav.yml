@@ -1,0 +1,14 @@
+docs_list_title: nav
+docs:
+
+- title: Subscribe
+  url: /subscribe/
+
+- title: Episodes
+  url: /episodes/
+
+- title: About
+  url: /about/
+
+- title: GovFresh
+  url: https://govfresh.com
