@@ -8,3 +8,7 @@ docs:
  - title: Spotify
    url: https://open.spotify.com/show/7jZIZh0oxJeq9jPheo9eJq
    icon: fa-brands fa-spotify
+
+ - title: YouTube
+   url: https://www.youtube.com/@GovFresh
+   icon: fa-brands fa-youtube
