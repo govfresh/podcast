@@ -21,12 +21,13 @@
                   ]
               });
     </script>
-    <p class="small text-body-secondary">
-      Subscribe:
+    <ul class="text-body-secondary inline-block p-0">
       {% for item in site.data.subscribe.docs %}
-        <a href="{{ item.url }}" class="link-primary link-offset-3 link-underline-opacity-0 link-underline-opacity-0-hover">
-          <i class="{{ item.icon }}" aria-label="{{ item.title }}"></i>
-          {{ item.title }}</a>
+        <li class="list-inline-item">
+        <a href="{{ item.url }}" class="link-primary link-offset-3 link-underline-opacity-0 link-underline-opacity-0-hover inline-block">
+          <i class="{{ item.icon }} inline-block fa-lg mr-4 drop-shadow3" aria-label="{{ item.title }}"></i>
+        </a>
+        </li>
       {% endfor %}
     </p>
   </div>

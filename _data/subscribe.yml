@@ -1,14 +1,26 @@
 docs_list_title: subscribe
 docs:
 
- - title: Apple
-   url: https://podcasts.apple.com/us/podcast/the-govfresh-podcast/id1468169431
-   icon: fa-brands fa-apple
+# - title: Apple
+#   url: https://podcasts.apple.com/us/podcast/the-govfresh-podcast/id1468169431
+#   icon: fa-brands fa-apple
 
  - title: Spotify
    url: https://open.spotify.com/show/7jZIZh0oxJeq9jPheo9eJq
    icon: fa-brands fa-spotify
 
  - title: YouTube
-   url: https://www.youtube.com/@GovFresh
+   url: https://www.youtube.com/playlist?list=PLkGdQml-nYNIDQOo0k5kghwT5N86GTowp
    icon: fa-brands fa-youtube
+
+ - title: Amazon
+   url: https://music.amazon.com/podcasts/9d78e4a4-657a-456f-8cab-c031c791ee31/the-govfresh-podcast
+   icon: fa-brands fa-amazon
+
+ - title: iHeartRadio
+   url: https://www.iheart.com/podcast/269-the-govfresh-podcast-268563815/
+   icon: fa-solid fa-heart
+
+ - title: RSS
+   url: https://podcast.govfresh.com/feed.xml
+   icon: fa-solid fa-rss
