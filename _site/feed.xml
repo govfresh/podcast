@@ -6,7 +6,8 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
   <channel>
     <title>The GovFresh Podcast</title>
     <link>http://localhost:4000</link>
@@ -26,6 +27,9 @@
       <itunes:email>podcast@govfresh.com</itunes:email>
     </itunes:owner>
 
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+
     
     <item>
       <title>Civic hacking with Carlos Moreno</title>
@@ -37,8 +41,6 @@
       <itunes:summary>A citizen journalist and civic technologist shares his experiences and lessons learned civic hacking.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>46:25</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/episode-carlos-moreno.png" />
     
@@ -56,8 +58,6 @@
       <itunes:summary>A pioneering civic technologist retrospects and shares his thoughts on hacking government for good.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:02:57</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
@@ -75,8 +75,6 @@
       <itunes:summary>The Government We Need talks with Mindful Badge's Richard Goerling about mindful policing.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>56:02</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
@@ -94,8 +92,6 @@
       <itunes:summary>The Government We Need talks with Amanda Renteria about getting public benefits to people in the digital age.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>28:56</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
@@ -113,8 +109,6 @@
       <itunes:summary>Shari Davis talks with The Government We Need about building a more inclusive, democratic public budgeting process.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>35:58</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
@@ -132,8 +126,6 @@
       <itunes:summary>The Government We Need talks with Rick Cole about local government's role in sustainability.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>57:04</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
@@ -151,8 +143,6 @@
       <itunes:summary>The Government We Need talks with Brian Elms about how government can ask the right questions and find its true public service purpose.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>51:21</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
@@ -170,8 +160,6 @@
       <itunes:summary>The Government We Need talks with Code for America founder Jen Pahlka about how technology can be a force for civic change.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>44:45</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
@@ -189,8 +177,6 @@
       <itunes:summary>The Government We Need talks with Run for Something’s Sarah Horvitz about the changing face of local politics and how to elect diverse representation.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>29:14</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
@@ -208,8 +194,6 @@
       <itunes:summary>The Government We Need talks with Bruce Schneier about internet+ security and government’s role in keeping us safe.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>35:58</itunes:duration>
-      <sy:updatePeriod>monthly</sy:updatePeriod>
-      <sy:updateFrequency>1</sy:updateFrequency>
     
       <itunes:image href="http://localhost:4000/assets/img/people/" />
     
