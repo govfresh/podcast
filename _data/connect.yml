@@ -121,7 +121,7 @@ docs:
     icon: *amazon
  
   - name: Apple
-    url: 
+    url: https://podcasts.apple.com/us/podcast/the-govfresh-podcast/id1797658196
     icon: *apple 
     
   - name: Spotify
