@@ -41,6 +41,8 @@ permalink: /feed.xml
       <itunes:summary>{{ post.description }}</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>{{ post.duration }}</itunes:duration>
+      <sy:updatePeriod>monthly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
     {% if post.img-feat %}
       <itunes:image href="{{ site.url }}/assets/img/people/{{ post.img-cover }}" />
     {% else %}
