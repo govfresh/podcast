@@ -1,7 +1,7 @@
 ---
 title: "California Alpha (Part 1)"
-description: "Setting an Alpha foundation with Angie Quirtarte."
-excerpt: "Setting an Alpha foundation with Angie Quirtarte."
+description: "Setting an Alpha foundation with Angie Quirarte."
+excerpt: "Setting an Alpha foundation with Angie Quirarte."
 date: 2025-04-02
 categories:
   - Data
@@ -50,7 +50,7 @@ In December of 2019, a small, ad hoc team assembled for a 90-day experimental pr
 
 This is the story of California Alpha, why it was stood up, how it worked, and the resulting impact it had on the government digital ecosystem, inside the state and beyond.
 
-This is a series on California Alpha, where I speak with Angie Quirtarte, who played a key role in its creation and then led the project’s work.
+This is a series on California Alpha, where I speak with Angie Quirarte, who played a key role in its creation and then led the project’s work.
 
 In this episode, Angie and I discuss setting the California Alpha foundation.
 
@@ -67,4 +67,4 @@ In this episode, Angie and I discuss setting the California Alpha foundation.
 
 ## About Angie
 
-Angie Quirtarte most recently served as Senior Advisor in the White House Office of Management and Budget where she led efforts to fix federal hiring and talent policy. She is a 2025 Federal 100 awardee. Angie has built digital service teams including leading Alpha, helped transform the California DMV,  led the COVID-19 digital response team, matched hundreds of technologists in the public sector, and implemented policies and programs around open data, open source, web standards, and web accessibility.
+Angie Quirarte most recently served as Senior Advisor in the White House Office of Management and Budget where she led efforts to fix federal hiring and talent policy. She is a 2025 Federal 100 awardee. Angie has built digital service teams including leading Alpha, helped transform the California DMV,  led the COVID-19 digital response team, matched hundreds of technologists in the public sector, and implemented policies and programs around open data, open source, web standards, and web accessibility.
