@@ -18,12 +18,13 @@ categories:
   - Policy
   - Procurement
 author: GovFresh
+host: Luke Fretwell
 number: 
 audio: govfresh-podcast-.mp3
 audio_length: 
 duration: ""
 img-feat: .jpeg
-img-social: episode-.png
+img-og: episode-.png
 img-cover: episode-.png
 img-alt: ""
 short-name: 

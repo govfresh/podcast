@@ -49,6 +49,28 @@
             </a>
             </li>
             {% endif %}
+            {% if page.bluesky %}
+                <li class="list-inline-item">
+                  <a
+                    href="{{ page.bluesky }}"
+                    rel="me"
+                    aria-label="Bluesky"
+                    class="link-primary link-offset-3 link-underline-opacity-0 link-underline-opacity-0-hover drop-shadow3">
+                    <i class="{{ site.data.connect.bluesky }} {{ site.data.connect.sm }}"></i>
+                  </a>
+                </li>
+              {% endif %}
+            {% if page.github %}
+                <li class="list-inline-item">
+                  <a
+                    href="{{ page.github }}"
+                    aria-label="GitHub"
+                    class="link-primary link-offset-3 link-underline-opacity-0 link-underline-opacity-0-hover drop-shadow3">
+                    <i class="{{ site.data.connect.github }} {{ site.data.connect.sm }}"></i>
+                  </a>
+                </li>
+              {% endif %}
+          
             {% if page.twitter %}
                 <li class="list-inline-item">
                     <a

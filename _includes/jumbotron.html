@@ -31,16 +31,16 @@
               <p class="lead text-body-secondary mb-4">{{ page.description }} {% include tgwn.html %}</p>
             {% endif %}
             {% include audio.html %}
-            {% if page.number %}
-              <p class="small text-body-secondary mb-1">
-                <small>
-                  <i class="fa-solid fa-microphone-lines"></i>
-                  Episode {{ page.number }} / Duration: {{ page.duration }}</small>
-              </p>
-              {% include date.html %}
-              {% include updated.html %}
-              {% include share.html %}
-            {% endif %}
+            <p class="small text-body-secondary mb-1">
+              <small>
+                <i class="fa-solid fa-microphone-lines"></i>
+                Episode {{ page.number }}</small>
+            </p>
+            {% include duration.html %}
+            {% include host.html %}
+            {% include date.html %}
+            {% include updated.html %}
+            {% include share.html %}
           </div>
           <div class="col-sm-12 col-md-2 col-lg-2 col-xl-2"></div>
         </div>

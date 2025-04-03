@@ -6,11 +6,12 @@ date: 2023-08-28
 categories:
   -  Civic hacking
 author: GovFresh
+host: Luke Fretwell
 number: 9
 audio: tgwn-9.mp3
 audio_length: 60438907
 duration: "01:02:57"
-img-social: steve-spiker-episode.png
+img-og: 
 img-feat: steve-spiker.png
 img-alt: Steve Spiker
 short-name: Spike

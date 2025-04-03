@@ -16,11 +16,6 @@
 {% elsif include.size == "small" %}
   <!-- Bio social -->
   <ul class="list-inline mb-5 mt-3">
-    {% if author_data and page.parent != "books" %}
-      {% assign data = author_data %}
-    {% else %}
-      {% assign data = page %}
-    {% endif %}
     {% if data.website %}
       <li class="list-inline-item">
         <a

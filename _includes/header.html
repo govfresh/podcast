@@ -90,14 +90,14 @@
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
     {% if page.img-twitter %}
-    <meta property="twitter:image" content="{{ site.url }}/assets/img/{{ page.img-path }}/{{ page.img-twitter }}">
+    <meta property="twitter:image" content="{{ site.url }}/assets/img/people/{{ page.img-twitter }}">
     {% elsif page.img-og %}
-    <meta property="twitter:image" content="{{ site.url }}/assets/img/{{ page.img-path }}/{{ page.img-og }}">
+    <meta property="twitter:image" content="{{ site.url }}/assets/img/people/{{ page.img-og }}">
     {% else %}
     <meta property="twitter:image" content="{{ site.url }}/assets/img/avatar-twitter.png">
     {% endif %}
     {% if page.img-og %}
-    <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.img-path }}/{{ page.img-og }}">
+    <meta property="og:image" content="{{ site.url }}/assets/img/people/{{ page.img-og }}">
     {% else %}
     <meta property="og:image" content="{{ site.url }}/assets/img/avatar-og.png">
     {% endif %}

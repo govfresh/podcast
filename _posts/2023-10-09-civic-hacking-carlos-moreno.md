@@ -9,12 +9,13 @@ categories:
   - Design
   - Open source
 author: GovFresh
+host: Luke Fretwell
 number: 10
 audio: govfresh-podcast-10.mp3
 audio_length: 44566070
 duration: "46:25"
 img-feat: carlos-moreno.jpeg
-img-social: episode-carlos-moreno.png
+img-og: episode-carlos-moreno.png
 img-cover: episode-carlos-moreno.png
 img-alt: Carlos Moreno
 short-name: Carlos

@@ -32,6 +32,23 @@
 
     
     <item>
+      <title>California Alpha (Part 1)</title>
+      <description>Setting an Alpha foundation with Angie Quirtarte.</description>
+      <link>http://localhost:4000/episode/california-alpha-part-1</link>
+      <guid>http://localhost:4000/episode/california-alpha-part-1</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>Setting an Alpha foundation with Angie Quirtarte.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>31:38</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/ca-alpha-part-1-episode.png" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/govfresh-podcast-11.mp3" type="audio/mpeg" length="45550572" />
+      <spotify:audio url="http://localhost:4000/assets/audio/govfresh-podcast-11.mp3" />
+    </item>
+    
+    <item>
       <title>Civic hacking with Carlos Moreno</title>
       <description>A citizen journalist and civic technologist shares his experiences and lessons learned civic hacking.</description>
       <link>http://localhost:4000/episode/civic-hacking-carlos-moreno</link>
