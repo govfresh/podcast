@@ -44,7 +44,7 @@ permalink: /feed.xml
       <itunes:summary>{{ post.content | strip_html | xml_escape }}</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>{{ post.duration }}</itunes:duration>
-    {% if post.img-feat %}
+    {% if post.img-cover %}
       <itunes:image href="{{ site.url }}/assets/img/people/{{ post.img-cover }}" />
     {% else %}
       <itunes:image href="{{ site.url }}/assets/img/avatar.png" />
