@@ -47,7 +47,7 @@ permalink: /feed.xml
     {% if post.img-cover %}
       <itunes:image href="{{ site.url }}/assets/img/people/{{ post.img-cover }}" />
     {% else %}
-      <itunes:image href="{{ site.url }}/assets/img/avatar.png" />
+      <itunes:image href="{{ site.url }}/assets/img/avatar-episode.png" />
     {% endif %}
       <enclosure url="{{ site.url }}/assets/audio/{{ post.audio }}" type="audio/mpeg" length="{{ post.audio_length }}" />
       <spotify:audio url="{{ site.url }}/assets/audio/{{ post.audio }}" />
