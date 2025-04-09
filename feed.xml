@@ -30,19 +30,18 @@ permalink: /feed.xml
       <itunes:name>{{ site.author }}</itunes:name>
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
-
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
     {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
-      <description>{{ post.description }}</description>
+      <description>{{ post.content | strip_html | xml_escape }}</description>
       <link>{{ site.url }}{{ post.url }}</link>
       <guid>{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <itunes:author>{{ site.author }}</itunes:author>
-      <itunes:summary>{{ post.description }}</itunes:summary>
+      <itunes:summary>{{ post.content | strip_html | xml_escape }}</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>{{ post.duration }}</itunes:duration>
     {% if post.img-feat %}
