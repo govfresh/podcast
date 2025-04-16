@@ -36,6 +36,16 @@
         </a>
       </li>
     {% endif %}
+    {% if data.subscribe %}
+      <li class="list-inline-item">
+        <a
+          aria-label="Subscribe"
+          href="{{ data.subscribe }}"
+          class="link-primary link-offset-3 link-underline-opacity-0 link-underline-opacity-0-hover drop-shadow3">
+          <i class=" {{ site.data.connect.subscribe }} {{ site.data.subscribe.sm }}"></i>
+        </a>
+      </li>
+    {% endif %}
     {% if data.calendar %}
       <li class="list-inline-item">
         <a

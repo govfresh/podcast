@@ -26,19 +26,121 @@
       <itunes:name>GovFresh</itunes:name>
       <itunes:email>podcast@govfresh.com</itunes:email>
     </itunes:owner>
-
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
     
     <item>
+      <title>Government PDFs</title>
+      <description>&lt;p&gt;The PDF, short for portable document format, is a file format created by Adobe that lets people easily create documents.&lt;/p&gt;
+
+&lt;p&gt;Government loves PDFs. They’re used for meeting agendas and minutes, newsletters, staff reports and, well, everything imaginable.&lt;/p&gt;
+
+&lt;p&gt;When not created properly – and often they aren’t – they are inaccessible. But there are broader public service problems PDFs cause, particularly in the machine-readable direction we’re heading. They are cumbersome and research shows that people just don’t like them.&lt;/p&gt;
+
+&lt;p&gt;In this episode, I speak with Department of Civic Things CEO Rebecca Woodbury. Rebecca works with governments on content strategy and implementation. This includes PDF audits and best practices. Rebecca and I talk about why PDFs are a digital experience pain point, and how government can move beyond them.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/&quot;&gt;PDF: Still Unfit for Human Consumption, 20 Years Later&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deptofcivicthings.com/why-governments-should-get-rid-of-pdf-documents/&quot;&gt;Why governments should get rid of PDF documents&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deptofcivicthings.com/the-elephant-in-the-new-accessibility-law-pdfs/&quot;&gt;The elephant in the new accessibility law: PDFs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-rebecca&quot;&gt;About Rebecca&lt;/h2&gt;
+
+&lt;p&gt;Rebecca is the founder of &lt;a href=&quot;https://deptofcivicthings.com/&quot;&gt;Department of Civic Things&lt;/a&gt;. She worked in local government for 12 years and was the City of San Rafael’s first director of Digital Service &amp;amp; Open Government. &lt;em&gt;Government Technology&lt;/em&gt; named her one of the Top 25 Doers, Dreamers and Drivers. She has a masters in Public Policy from Mills College in Oakland, California.&lt;/p&gt;
+</description>
+      <link>http://localhost:4000/episode/government-pdfs</link>
+      <guid>http://localhost:4000/episode/government-pdfs</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>&lt;p&gt;The PDF, short for portable document format, is a file format created by Adobe that lets people easily create documents.&lt;/p&gt;
+
+&lt;p&gt;Government loves PDFs. They’re used for meeting agendas and minutes, newsletters, staff reports and, well, everything imaginable.&lt;/p&gt;
+
+&lt;p&gt;When not created properly – and often they aren’t – they are inaccessible. But there are broader public service problems PDFs cause, particularly in the machine-readable direction we’re heading. They are cumbersome and research shows that people just don’t like them.&lt;/p&gt;
+
+&lt;p&gt;In this episode, I speak with Department of Civic Things CEO Rebecca Woodbury. Rebecca works with governments on content strategy and implementation. This includes PDF audits and best practices. Rebecca and I talk about why PDFs are a digital experience pain point, and how government can move beyond them.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/&quot;&gt;PDF: Still Unfit for Human Consumption, 20 Years Later&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deptofcivicthings.com/why-governments-should-get-rid-of-pdf-documents/&quot;&gt;Why governments should get rid of PDF documents&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://deptofcivicthings.com/the-elephant-in-the-new-accessibility-law-pdfs/&quot;&gt;The elephant in the new accessibility law: PDFs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-rebecca&quot;&gt;About Rebecca&lt;/h2&gt;
+
+&lt;p&gt;Rebecca is the founder of &lt;a href=&quot;https://deptofcivicthings.com/&quot;&gt;Department of Civic Things&lt;/a&gt;. She worked in local government for 12 years and was the City of San Rafael’s first director of Digital Service &amp;amp; Open Government. &lt;em&gt;Government Technology&lt;/em&gt; named her one of the Top 25 Doers, Dreamers and Drivers. She has a masters in Public Policy from Mills College in Oakland, California.&lt;/p&gt;
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>35:21</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/episode-government-pdfs.png" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/govfresh-podcast-12.mp3" type="audio/mpeg" length="50900868" />
+      <spotify:audio url="http://localhost:4000/assets/audio/govfresh-podcast-12.mp3" />
+    </item>
+    
+    <item>
       <title>California Alpha (Part 1)</title>
-      <description>Setting an Alpha foundation with Angie Quirtarte.</description>
+      <description>&lt;p&gt;In December of 2019, a small, ad hoc team assembled for a 90-day experimental project. Called California Alpha, its goal was to help the state rethink government digital service delivery. Its members – picked from government and private sector – had never collectively worked together. Their mission was to create – in three months – a culture and product that embodied a new way of delivering services to Californians – one that focused on designing for user needs and challenged the status quo of digital delivery in state government.&lt;/p&gt;
+
+&lt;p&gt;This is the story of California Alpha, why it was stood up, how it worked, and the resulting impact it had on the government digital ecosystem, inside the state and beyond.&lt;/p&gt;
+
+&lt;p&gt;This is a series on California Alpha, where I speak with Angie Quirarte, who played a key role in its creation and then led the project’s work.&lt;/p&gt;
+
+&lt;p&gt;In this episode, Angie and I discuss setting the California Alpha foundation.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdt.ca.gov/wp-content/uploads/2017/05/TL-17-05.pdf&quot;&gt;California domain name policy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdt.ca.gov/wp-content/uploads/2019/03/TL-19-01.pdf&quot;&gt;California open data policy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://data.ca.gov/&quot;&gt;CalData&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdt.ca.gov/wp-content/uploads/2018/07/TL-18-04_2018-0725.pdf&quot;&gt;California web standards policy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdt.ca.gov/technology-innovation/dwsn/&quot;&gt;Digital Services Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ebudget.ca.gov/2019-20/pdf/Enacted/BudgetSummary/StatewideIssuesandVariousDepartments.pdf&quot;&gt;California 2019 Budget- Creation of ODI &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://govfresh.com/signal/how-civic-hackers-helped-californias-dmv-get-digital-momentum&quot;&gt;How civic hackers helped California’s DMV get digital momentum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/government-digital-strategy/government-digital-strategy&quot;&gt;Francis Maude 2013 Letter on Open Government and Digital Strategy in UK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-angie&quot;&gt;About Angie&lt;/h2&gt;
+
+&lt;p&gt;Angie Quirarte most recently served as Senior Advisor in the White House Office of Management and Budget where she led efforts to fix federal hiring and talent policy. She is a 2025 Federal 100 awardee. Angie has built digital service teams including leading Alpha, helped transform the California DMV,  led the COVID-19 digital response team, matched hundreds of technologists in the public sector, and implemented policies and programs around open data, open source, web standards, and web accessibility.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/california-alpha-part-1</link>
       <guid>http://localhost:4000/episode/california-alpha-part-1</guid>
       <pubDate>Wed, 02 Apr 2025 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>Setting an Alpha foundation with Angie Quirtarte.</itunes:summary>
+      <itunes:summary>&lt;p&gt;In December of 2019, a small, ad hoc team assembled for a 90-day experimental project. Called California Alpha, its goal was to help the state rethink government digital service delivery. Its members – picked from government and private sector – had never collectively worked together. Their mission was to create – in three months – a culture and product that embodied a new way of delivering services to Californians – one that focused on designing for user needs and challenged the status quo of digital delivery in state government.&lt;/p&gt;
+
+&lt;p&gt;This is the story of California Alpha, why it was stood up, how it worked, and the resulting impact it had on the government digital ecosystem, inside the state and beyond.&lt;/p&gt;
+
+&lt;p&gt;This is a series on California Alpha, where I speak with Angie Quirarte, who played a key role in its creation and then led the project’s work.&lt;/p&gt;
+
+&lt;p&gt;In this episode, Angie and I discuss setting the California Alpha foundation.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdt.ca.gov/wp-content/uploads/2017/05/TL-17-05.pdf&quot;&gt;California domain name policy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdt.ca.gov/wp-content/uploads/2019/03/TL-19-01.pdf&quot;&gt;California open data policy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://data.ca.gov/&quot;&gt;CalData&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdt.ca.gov/wp-content/uploads/2018/07/TL-18-04_2018-0725.pdf&quot;&gt;California web standards policy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdt.ca.gov/technology-innovation/dwsn/&quot;&gt;Digital Services Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ebudget.ca.gov/2019-20/pdf/Enacted/BudgetSummary/StatewideIssuesandVariousDepartments.pdf&quot;&gt;California 2019 Budget- Creation of ODI &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://govfresh.com/signal/how-civic-hackers-helped-californias-dmv-get-digital-momentum&quot;&gt;How civic hackers helped California’s DMV get digital momentum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/government-digital-strategy/government-digital-strategy&quot;&gt;Francis Maude 2013 Letter on Open Government and Digital Strategy in UK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-angie&quot;&gt;About Angie&lt;/h2&gt;
+
+&lt;p&gt;Angie Quirarte most recently served as Senior Advisor in the White House Office of Management and Budget where she led efforts to fix federal hiring and talent policy. She is a 2025 Federal 100 awardee. Angie has built digital service teams including leading Alpha, helped transform the California DMV,  led the COVID-19 digital response team, matched hundreds of technologists in the public sector, and implemented policies and programs around open data, open source, web standards, and web accessibility.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>31:38</itunes:duration>
     
@@ -50,12 +152,42 @@
     
     <item>
       <title>Civic hacking with Carlos Moreno</title>
-      <description>A citizen journalist and civic technologist shares his experiences and lessons learned civic hacking.</description>
+      <description>&lt;p&gt;Whether it’s cultural or political, sometimes government isn’t amenable to working with civic hackers. But as they say, “hackers gonna hack,” and designers and developers will always find a way to leverage their skills and passion to help fix something they see as broken. Citizen journalist and civic technologist Carlos Moreno shares his experiences and lessons learned civic hacking. Carlos talks about the dynamics of hacking when government isn’t civic hacker friendly and how nonprofit organizations can be a better outlet for technologists who want to help. Carlos shares how civic hackers in Tulsa, Oklahoma, shifted their focus from government to supporting local organizations. He also offers advice for how both can find and work best with one another for the greater good.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thevictoryofgreenwood.com/mapping/?v=7516fd43adaa&quot;&gt;Greenwood Mapping Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thevictoryofgreenwood.com/?v=7516fd43adaa&quot;&gt;The Victory of Greenwood&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.9bcorp.com/&quot;&gt;9b&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-carlos&quot;&gt;About Carlos&lt;/h2&gt;
+
+&lt;p&gt;Carlos Moreno is a project manager at 9b and is the author of two books: &lt;a href=&quot;https://thevictoryofgreenwood.com/?v=7516fd43adaa&quot;&gt;The Victory of Greenwood&lt;/a&gt; and &lt;a href=&quot;https://akidsco.com/products/a-kids-book-about-the-tulsa-race-massacre&quot;&gt;A Kids Book about the Tulsa Race Massacre&lt;/a&gt;. He was selected by national urban-affairs magazine NextCity as part of its 2014 Vanguard Class. In 2015, he was certified by IDEO and +Acumen, in the practice of Human-Centered Design. Carlos earned a Bachelor of Arts in Administrative Leadership in 2017 and a Master of Public Administration (MPA) degree with a focus on civic technology in 2020 from the University of Oklahoma.&lt;/p&gt;
+
+&lt;p&gt;Carlos serves on the board of Urban Coders Guild which teaches programming skills to disadvantaged youth, as well as the leadership team of &lt;a href=&quot;https://www.tricitycollective.com/&quot;&gt;Tri City Collective&lt;/a&gt; which provides journalism, cultural, and educational opportunities outside the classroom for youth and adults.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/civic-hacking-carlos-moreno</link>
       <guid>http://localhost:4000/episode/civic-hacking-carlos-moreno</guid>
       <pubDate>Mon, 09 Oct 2023 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>A citizen journalist and civic technologist shares his experiences and lessons learned civic hacking.</itunes:summary>
+      <itunes:summary>&lt;p&gt;Whether it’s cultural or political, sometimes government isn’t amenable to working with civic hackers. But as they say, “hackers gonna hack,” and designers and developers will always find a way to leverage their skills and passion to help fix something they see as broken. Citizen journalist and civic technologist Carlos Moreno shares his experiences and lessons learned civic hacking. Carlos talks about the dynamics of hacking when government isn’t civic hacker friendly and how nonprofit organizations can be a better outlet for technologists who want to help. Carlos shares how civic hackers in Tulsa, Oklahoma, shifted their focus from government to supporting local organizations. He also offers advice for how both can find and work best with one another for the greater good.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thevictoryofgreenwood.com/mapping/?v=7516fd43adaa&quot;&gt;Greenwood Mapping Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thevictoryofgreenwood.com/?v=7516fd43adaa&quot;&gt;The Victory of Greenwood&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.9bcorp.com/&quot;&gt;9b&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-carlos&quot;&gt;About Carlos&lt;/h2&gt;
+
+&lt;p&gt;Carlos Moreno is a project manager at 9b and is the author of two books: &lt;a href=&quot;https://thevictoryofgreenwood.com/?v=7516fd43adaa&quot;&gt;The Victory of Greenwood&lt;/a&gt; and &lt;a href=&quot;https://akidsco.com/products/a-kids-book-about-the-tulsa-race-massacre&quot;&gt;A Kids Book about the Tulsa Race Massacre&lt;/a&gt;. He was selected by national urban-affairs magazine NextCity as part of its 2014 Vanguard Class. In 2015, he was certified by IDEO and +Acumen, in the practice of Human-Centered Design. Carlos earned a Bachelor of Arts in Administrative Leadership in 2017 and a Master of Public Administration (MPA) degree with a focus on civic technology in 2020 from the University of Oklahoma.&lt;/p&gt;
+
+&lt;p&gt;Carlos serves on the board of Urban Coders Guild which teaches programming skills to disadvantaged youth, as well as the leadership team of &lt;a href=&quot;https://www.tricitycollective.com/&quot;&gt;Tri City Collective&lt;/a&gt; which provides journalism, cultural, and educational opportunities outside the classroom for youth and adults.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>46:25</itunes:duration>
     
@@ -67,16 +199,26 @@
     
     <item>
       <title>Civic hacking with Steve Spiker</title>
-      <description>A pioneering civic technologist retrospects and shares his thoughts on hacking government for good.</description>
+      <description>&lt;p&gt;Steve “Spike” Spiker talks with &lt;a href=&quot;https://podcast.govfresh.com&quot;&gt;The GovFresh Podcast&lt;/a&gt; about his work in civic hacking, including co-founding OpenOakland, which served as the Code for America Brigade in Oakland, Calif. He shares his thoughts on why civic hacking is important in a healthy digital democracy and how hackers and government can show up and effectively work together. Spike shares a thoughtful retrospective on his time pioneering and actively civic hacking, organizing hackers and how grassroots technologists can continue to leverage their passion and skills to impact civil society.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-spike&quot;&gt;About Spike&lt;/h2&gt;
+
+&lt;p&gt;Steve “Spike” Spiker is a data inspired collaborator and leader with a passion for racial justice, government transparency and public policy. Spike is currently the Chief of Programs &amp;amp; Technology at One Degree, where he leads product, design, community engagement and marketing. He joined One Degree as Chief Data Officer to build their data practice, from data governance, business intelligence to data science. Spike was the co-founder and Executive Director of OpenOakland, a civic innovation nonprofit. He was recognized by the Obama White House as a Champion of Change. Former nonprofit roles include Data Evangelist for Measures for Justice, and Director of Research &amp;amp; Technology with Urban Strategies Council in Oakland.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/civic-hacking-steve-spiker</link>
       <guid>http://localhost:4000/episode/civic-hacking-steve-spiker</guid>
       <pubDate>Mon, 28 Aug 2023 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>A pioneering civic technologist retrospects and shares his thoughts on hacking government for good.</itunes:summary>
+      <itunes:summary>&lt;p&gt;Steve “Spike” Spiker talks with &lt;a href=&quot;https://podcast.govfresh.com&quot;&gt;The GovFresh Podcast&lt;/a&gt; about his work in civic hacking, including co-founding OpenOakland, which served as the Code for America Brigade in Oakland, Calif. He shares his thoughts on why civic hacking is important in a healthy digital democracy and how hackers and government can show up and effectively work together. Spike shares a thoughtful retrospective on his time pioneering and actively civic hacking, organizing hackers and how grassroots technologists can continue to leverage their passion and skills to impact civil society.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-spike&quot;&gt;About Spike&lt;/h2&gt;
+
+&lt;p&gt;Steve “Spike” Spiker is a data inspired collaborator and leader with a passion for racial justice, government transparency and public policy. Spike is currently the Chief of Programs &amp;amp; Technology at One Degree, where he leads product, design, community engagement and marketing. He joined One Degree as Chief Data Officer to build their data practice, from data governance, business intelligence to data science. Spike was the co-founder and Executive Director of OpenOakland, a civic innovation nonprofit. He was recognized by the Obama White House as a Champion of Change. Former nonprofit roles include Data Evangelist for Measures for Justice, and Director of Research &amp;amp; Technology with Urban Strategies Council in Oakland.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>01:02:57</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-9.mp3" type="audio/mpeg" length="60438907" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-9.mp3" />
@@ -84,16 +226,30 @@
     
     <item>
       <title>How government can bring mindfulness to law enforcement</title>
-      <description>The Government We Need talks with Mindful Badge's Richard Goerling about mindful policing.</description>
+      <description>&lt;p&gt;With police violence in the news, and public scrutiny on the rise, law enforcement is turning to mindfulness to help officers deal with the stress that comes with the work. They are introducing new tools and techniques to help officers better engage with the communities they have sworn an oath to protect.&lt;/p&gt;
+
+&lt;p&gt;Policing is an incredibly stressful occupation – physically and psychologically. First responders and law enforcement are faced with traumatic events daily, and many don’t have the coping mechanisms to deal with the build-up of trauma, anger, sadness and stress officers carry with them on and off-duty.&lt;/p&gt;
+
+&lt;p&gt;Police Lt. Richard Goerling is a pioneer and champion of mindful based stress reduction practices for law enforcement officers. He is the founder of &lt;a href=&quot;http://www.mindfulbadge.com/&quot;&gt;Mindful Badge&lt;/a&gt;, a consultancy that works with first responders on mental resilience.&lt;/p&gt;
+
+&lt;p&gt;Richard talks with The Government We Need about how law enforcement officers can be more mindful so that they can serve and protect, not just their communities, but also themselves.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/how-government-can-bring-mindfulness-to-law-enforcement</link>
       <guid>http://localhost:4000/episode/how-government-can-bring-mindfulness-to-law-enforcement</guid>
       <pubDate>Mon, 20 Dec 2021 00:00:00 -0800</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>The Government We Need talks with Mindful Badge's Richard Goerling about mindful policing.</itunes:summary>
+      <itunes:summary>&lt;p&gt;With police violence in the news, and public scrutiny on the rise, law enforcement is turning to mindfulness to help officers deal with the stress that comes with the work. They are introducing new tools and techniques to help officers better engage with the communities they have sworn an oath to protect.&lt;/p&gt;
+
+&lt;p&gt;Policing is an incredibly stressful occupation – physically and psychologically. First responders and law enforcement are faced with traumatic events daily, and many don’t have the coping mechanisms to deal with the build-up of trauma, anger, sadness and stress officers carry with them on and off-duty.&lt;/p&gt;
+
+&lt;p&gt;Police Lt. Richard Goerling is a pioneer and champion of mindful based stress reduction practices for law enforcement officers. He is the founder of &lt;a href=&quot;http://www.mindfulbadge.com/&quot;&gt;Mindful Badge&lt;/a&gt;, a consultancy that works with first responders on mental resilience.&lt;/p&gt;
+
+&lt;p&gt;Richard talks with The Government We Need about how law enforcement officers can be more mindful so that they can serve and protect, not just their communities, but also themselves.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>56:02</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-8.mp3" type="audio/mpeg" length="53789176" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-8.mp3" />
@@ -101,16 +257,34 @@
     
     <item>
       <title>How government can design a human-centered social safety net</title>
-      <description>The Government We Need talks with Amanda Renteria about getting public benefits to people in the digital age.</description>
+      <description>&lt;p&gt;For those in need of social services – unemployment, housing, healthcare, food – the safety net isn’t easy to navigate or access.&lt;/p&gt;
+
+&lt;p&gt;And the COVID crisis has exacerbated this reality. There has been a dramatic spike in benefits claims, especially in communities of color and those that were already teetering on the edge. This pandemic has spotlighted the extreme inequities of the haves and have-nots, and the very broken social safety net meant to provide benefits and assistance to people in need, particularly when disaster strikes.&lt;/p&gt;
+
+&lt;p&gt;In this episode, we talk with &lt;a href=&quot;https://codeforamerica.org&quot;&gt;Code for America&lt;/a&gt; Executive Director Amanda Renteria. Code for America’s mission is to build “a 21st century government that effectively and equitably serves all Americans.” As part of its &lt;a href=&quot;https://www.codeforamerica.org/safetynetblueprint/about/&quot;&gt;Social Safety Net Portfolio&lt;/a&gt;, CfA has produced a ‘Blueprint for a Human-Centered Safety Net’ aimed at “transforming the delivery of public benefits in the digital age.” It also manages digital social service tools like &lt;a href=&quot;https://www.codeforamerica.org/programs/getcalfresh&quot;&gt;GetCalFresh&lt;/a&gt;, &lt;a href=&quot;https://www.codeforamerica.org/programs/clear-my-record&quot;&gt;ClearMyRecord&lt;/a&gt;, &lt;a href=&quot;https://www.codeforamerica.org/programs/clientcomm&quot;&gt;ClientComm&lt;/a&gt; and &lt;a href=&quot;https://www.codeforamerica.org/programs/getyourrefund&quot;&gt;GetYourRefund&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As Code for America says of its &lt;a href=&quot;https://www.codeforamerica.org/programs/integrated-benefits&quot;&gt;Integrated Benefits Initiative&lt;/a&gt;, “In the United States, the social safety net is composed of more than 80 services that together aim to lift almost 50 million Americans above the poverty line each year. Today, tens of millions of those people are still falling through the cracks.”&lt;/p&gt;
+
+&lt;p&gt;Amanda talks with &lt;a href=&quot;https://thegovweneed.com/&quot;&gt;The Government We Need&lt;/a&gt; about how government can build a more responsive and dignified social safety net to support those who need it most.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/how-government-can-design-a-human-centered-social-safety-net</link>
       <guid>http://localhost:4000/episode/how-government-can-design-a-human-centered-social-safety-net</guid>
       <pubDate>Sun, 31 Jan 2021 00:00:00 -0800</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>The Government We Need talks with Amanda Renteria about getting public benefits to people in the digital age.</itunes:summary>
+      <itunes:summary>&lt;p&gt;For those in need of social services – unemployment, housing, healthcare, food – the safety net isn’t easy to navigate or access.&lt;/p&gt;
+
+&lt;p&gt;And the COVID crisis has exacerbated this reality. There has been a dramatic spike in benefits claims, especially in communities of color and those that were already teetering on the edge. This pandemic has spotlighted the extreme inequities of the haves and have-nots, and the very broken social safety net meant to provide benefits and assistance to people in need, particularly when disaster strikes.&lt;/p&gt;
+
+&lt;p&gt;In this episode, we talk with &lt;a href=&quot;https://codeforamerica.org&quot;&gt;Code for America&lt;/a&gt; Executive Director Amanda Renteria. Code for America’s mission is to build “a 21st century government that effectively and equitably serves all Americans.” As part of its &lt;a href=&quot;https://www.codeforamerica.org/safetynetblueprint/about/&quot;&gt;Social Safety Net Portfolio&lt;/a&gt;, CfA has produced a ‘Blueprint for a Human-Centered Safety Net’ aimed at “transforming the delivery of public benefits in the digital age.” It also manages digital social service tools like &lt;a href=&quot;https://www.codeforamerica.org/programs/getcalfresh&quot;&gt;GetCalFresh&lt;/a&gt;, &lt;a href=&quot;https://www.codeforamerica.org/programs/clear-my-record&quot;&gt;ClearMyRecord&lt;/a&gt;, &lt;a href=&quot;https://www.codeforamerica.org/programs/clientcomm&quot;&gt;ClientComm&lt;/a&gt; and &lt;a href=&quot;https://www.codeforamerica.org/programs/getyourrefund&quot;&gt;GetYourRefund&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As Code for America says of its &lt;a href=&quot;https://www.codeforamerica.org/programs/integrated-benefits&quot;&gt;Integrated Benefits Initiative&lt;/a&gt;, “In the United States, the social safety net is composed of more than 80 services that together aim to lift almost 50 million Americans above the poverty line each year. Today, tens of millions of those people are still falling through the cracks.”&lt;/p&gt;
+
+&lt;p&gt;Amanda talks with &lt;a href=&quot;https://thegovweneed.com/&quot;&gt;The Government We Need&lt;/a&gt; about how government can build a more responsive and dignified social safety net to support those who need it most.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>28:56</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-7.mp3" type="audio/mpeg" length="41675463" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-7.mp3" />
@@ -118,16 +292,30 @@
     
     <item>
       <title>How government can make public budgeting more participatory</title>
-      <description>Shari Davis talks with The Government We Need about building a more inclusive, democratic public budgeting process.</description>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.participatorybudgeting.org/what-is-pb/&quot;&gt;Participatory budgeting&lt;/a&gt; is a process that empowers community members to help decide how to spend part of a public budget. PB started in Brazil in 1989, and has since spread to more than 7,000 cities around the world. It has been used to decide budgets from states, counties, cities, housing authorities, schools, and other institutions. The New York Times calls PB “revolutionary civics in action.”&lt;/p&gt;
+
+&lt;p&gt;In this episode, we talk with Participatory Budgeting Project Executive Director &lt;a href=&quot;https://www.linkedin.com/in/shari-davis/&quot;&gt;Shari Davis&lt;/a&gt;. PBP is a nonprofit organization advancing participatory budgeting across the United States and Canada. It has helped more than 400,000 people directly decide how to spend $300 million in public funds in 29 cities.&lt;/p&gt;
+
+&lt;p&gt;Shari joined PBP after nearly 15 years of service and leadership in local government, including serving as Director of Youth Engagement and Employment for the City of Boston, where she launched Youth Lead the Change, the first youth PB process in the United States, which won the United States Conference of Mayors City Livability Award.&lt;/p&gt;
+
+&lt;p&gt;Shari talks with of &lt;a href=&quot;https://thegovweneed.com&quot;&gt;The Government We Need&lt;/a&gt; about how government can make public budgeting more participatory and, as PBP says, give people real power over real money.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/how-government-can-make-public-budgeting-more-participatory</link>
       <guid>http://localhost:4000/episode/how-government-can-make-public-budgeting-more-participatory</guid>
       <pubDate>Wed, 05 Aug 2020 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>Shari Davis talks with The Government We Need about building a more inclusive, democratic public budgeting process.</itunes:summary>
+      <itunes:summary>&lt;p&gt;&lt;a href=&quot;https://www.participatorybudgeting.org/what-is-pb/&quot;&gt;Participatory budgeting&lt;/a&gt; is a process that empowers community members to help decide how to spend part of a public budget. PB started in Brazil in 1989, and has since spread to more than 7,000 cities around the world. It has been used to decide budgets from states, counties, cities, housing authorities, schools, and other institutions. The New York Times calls PB “revolutionary civics in action.”&lt;/p&gt;
+
+&lt;p&gt;In this episode, we talk with Participatory Budgeting Project Executive Director &lt;a href=&quot;https://www.linkedin.com/in/shari-davis/&quot;&gt;Shari Davis&lt;/a&gt;. PBP is a nonprofit organization advancing participatory budgeting across the United States and Canada. It has helped more than 400,000 people directly decide how to spend $300 million in public funds in 29 cities.&lt;/p&gt;
+
+&lt;p&gt;Shari joined PBP after nearly 15 years of service and leadership in local government, including serving as Director of Youth Engagement and Employment for the City of Boston, where she launched Youth Lead the Change, the first youth PB process in the United States, which won the United States Conference of Mayors City Livability Award.&lt;/p&gt;
+
+&lt;p&gt;Shari talks with of &lt;a href=&quot;https://thegovweneed.com&quot;&gt;The Government We Need&lt;/a&gt; about how government can make public budgeting more participatory and, as PBP says, give people real power over real money.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>35:58</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-6.mp3" type="audio/mpeg" length="51792375" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-6.mp3" />
@@ -135,16 +323,26 @@
     
     <item>
       <title>How government can support climate action</title>
-      <description>The Government We Need talks with Rick Cole about local government's role in sustainability.</description>
+      <description>&lt;p&gt;Sustainability is a top priority for environmentally-conscious global leaders, and it’s an issue that we’re all faced with on a daily basis, but what role should local government play in mitigating the climate crisis?&lt;/p&gt;
+
+&lt;p&gt;In this episode, we talk with environmentalist and local government leader Rick Cole. Rick served as city manager of Santa Monica from 2015 to 2020, where he spearheaded ambitious initiatives on climate, homelessness, mobility, and the wellbeing of all residents. Prior to Santa Monica, Rick served as deputy mayor for Budget and Innovation for the City of Los Angeles, where he was responsible for a budget of $8.6 billion and oversaw five city departments. Rick also spent 15 years as city manager of two Southern California cities: Ventura and Azusa. He has been recognized as one of “America’s Public Officials of the Year” by Governing Magazine and one of the “Top 25 Doers, Dreamers and Drivers” by Government Technology Magazine.&lt;/p&gt;
+
+&lt;p&gt;Rick talks with the Government We Need about creating a climate-conscious city – from policy to business and organizational collaboration – and how local governments can foster a more sustainable planet.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/how-government-can-support-climate-action</link>
       <guid>http://localhost:4000/episode/how-government-can-support-climate-action</guid>
       <pubDate>Mon, 27 Jul 2020 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>The Government We Need talks with Rick Cole about local government's role in sustainability.</itunes:summary>
+      <itunes:summary>&lt;p&gt;Sustainability is a top priority for environmentally-conscious global leaders, and it’s an issue that we’re all faced with on a daily basis, but what role should local government play in mitigating the climate crisis?&lt;/p&gt;
+
+&lt;p&gt;In this episode, we talk with environmentalist and local government leader Rick Cole. Rick served as city manager of Santa Monica from 2015 to 2020, where he spearheaded ambitious initiatives on climate, homelessness, mobility, and the wellbeing of all residents. Prior to Santa Monica, Rick served as deputy mayor for Budget and Innovation for the City of Los Angeles, where he was responsible for a budget of $8.6 billion and oversaw five city departments. Rick also spent 15 years as city manager of two Southern California cities: Ventura and Azusa. He has been recognized as one of “America’s Public Officials of the Year” by Governing Magazine and one of the “Top 25 Doers, Dreamers and Drivers” by Government Technology Magazine.&lt;/p&gt;
+
+&lt;p&gt;Rick talks with the Government We Need about creating a climate-conscious city – from policy to business and organizational collaboration – and how local governments can foster a more sustainable planet.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>57:04</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-5.mp3" type="audio/mpeg" length="82181351" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-5.mp3" />
@@ -152,16 +350,38 @@
     
     <item>
       <title>How government can find its purpose</title>
-      <description>The Government We Need talks with Brian Elms about how government can ask the right questions and find its true public service purpose.</description>
+      <description>&lt;p&gt;Sometimes, government works on the wrong problem.&lt;/p&gt;
+
+&lt;p&gt;By identifying the right problems to work on — and solving these with a performance and purpose-based mindset — government can better serve its true mission.&lt;/p&gt;
+
+&lt;p&gt;“&lt;a href=&quot;https://www.amazon.com/Peak-Performance-Denvers-Boosting-Changing/dp/0983373353&quot;&gt;Peak Performance&lt;/a&gt;” author Brian Elms thinks government should be constantly asking itself questions like, “Should we be doing this at all? Are we the ones that should be doing it? If not, can we stop doing it? Can we figure out a way to get better at all these things?”&lt;/p&gt;
+
+&lt;p&gt;When Denver Mayor Michael Hancock said he wanted train city employees how to spot and fix inefficiencies in their work, Brian is the person he asked to do it. The training operation he built, called Peak Academy, quickly became a fixture in Denver City Hall — it’s trained about 7,000 employees in seven years, and saved the city close to $30 million by identifying and eliminating wasteful work in the daily lives of government employees.&lt;/p&gt;
+
+&lt;p&gt;The initiative was so successful that other cities, states, and counties began adopting the model, and many have even made “Peak Performance” required reading. Brian now works with the Change and Innovation Agency, leading innovation academies all over the country.&lt;/p&gt;
+
+&lt;p&gt;Brian talks with The Government We Need about how government can ask the right questions and, by doing so, find its true public service purpose.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/how-government-can-find-its-purpose</link>
       <guid>http://localhost:4000/episode/how-government-can-find-its-purpose</guid>
       <pubDate>Mon, 07 Oct 2019 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>The Government We Need talks with Brian Elms about how government can ask the right questions and find its true public service purpose.</itunes:summary>
+      <itunes:summary>&lt;p&gt;Sometimes, government works on the wrong problem.&lt;/p&gt;
+
+&lt;p&gt;By identifying the right problems to work on — and solving these with a performance and purpose-based mindset — government can better serve its true mission.&lt;/p&gt;
+
+&lt;p&gt;“&lt;a href=&quot;https://www.amazon.com/Peak-Performance-Denvers-Boosting-Changing/dp/0983373353&quot;&gt;Peak Performance&lt;/a&gt;” author Brian Elms thinks government should be constantly asking itself questions like, “Should we be doing this at all? Are we the ones that should be doing it? If not, can we stop doing it? Can we figure out a way to get better at all these things?”&lt;/p&gt;
+
+&lt;p&gt;When Denver Mayor Michael Hancock said he wanted train city employees how to spot and fix inefficiencies in their work, Brian is the person he asked to do it. The training operation he built, called Peak Academy, quickly became a fixture in Denver City Hall — it’s trained about 7,000 employees in seven years, and saved the city close to $30 million by identifying and eliminating wasteful work in the daily lives of government employees.&lt;/p&gt;
+
+&lt;p&gt;The initiative was so successful that other cities, states, and counties began adopting the model, and many have even made “Peak Performance” required reading. Brian now works with the Change and Innovation Agency, leading innovation academies all over the country.&lt;/p&gt;
+
+&lt;p&gt;Brian talks with The Government We Need about how government can ask the right questions and, by doing so, find its true public service purpose.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>51:21</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-4.mp3" type="audio/mpeg" length="73940868" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-4.mp3" />
@@ -169,16 +389,30 @@
     
     <item>
       <title>How we can code a better government</title>
-      <description>The Government We Need talks with Code for America founder Jen Pahlka about how technology can be a force for civic change.</description>
+      <description>&lt;p&gt;Government has historically been challenged in effectively leveraging technology to best serve the people. There are numerous, well-documented cases of public sector mishandling of technology projects, from the very public failed launch of Healthcare.gov to the many unseen, ineffective IT implementations that occur on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;A decade ago, a movement of civic hackers — technologists working for good — inside and outside government began to eschew the trappings of Silicon Valley technology culture, instead putting their talents to use to code a better civil society.&lt;/p&gt;
+
+&lt;p&gt;In 2009, Jen Pahlka started &lt;a href=&quot;https://codeforamerica.org&quot;&gt;Code for America&lt;/a&gt;, a nonprofit dedicated to bringing a delivery-driven, digital mindset to government. Jen also served as deputy chief technology officer in the Obama Administration and played an instrumental role in the creation of the federal government’s U.S. Digital Service, whose mission it is “to deliver better government services to the American people through technology and design.”&lt;/p&gt;
+
+&lt;p&gt;Jen talks with The Government We Need about how we all can code a better government.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/how-we-can-code-a-better-government</link>
       <guid>http://localhost:4000/episode/how-we-can-code-a-better-government</guid>
       <pubDate>Wed, 14 Aug 2019 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>The Government We Need talks with Code for America founder Jen Pahlka about how technology can be a force for civic change.</itunes:summary>
+      <itunes:summary>&lt;p&gt;Government has historically been challenged in effectively leveraging technology to best serve the people. There are numerous, well-documented cases of public sector mishandling of technology projects, from the very public failed launch of Healthcare.gov to the many unseen, ineffective IT implementations that occur on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;A decade ago, a movement of civic hackers — technologists working for good — inside and outside government began to eschew the trappings of Silicon Valley technology culture, instead putting their talents to use to code a better civil society.&lt;/p&gt;
+
+&lt;p&gt;In 2009, Jen Pahlka started &lt;a href=&quot;https://codeforamerica.org&quot;&gt;Code for America&lt;/a&gt;, a nonprofit dedicated to bringing a delivery-driven, digital mindset to government. Jen also served as deputy chief technology officer in the Obama Administration and played an instrumental role in the creation of the federal government’s U.S. Digital Service, whose mission it is “to deliver better government services to the American people through technology and design.”&lt;/p&gt;
+
+&lt;p&gt;Jen talks with The Government We Need about how we all can code a better government.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>44:45</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-3.mp3" type="audio/mpeg" length="64454030" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-3.mp3" />
@@ -186,16 +420,30 @@
     
     <item>
       <title>How we can bring more diversity into elected office</title>
-      <description>The Government We Need talks with Run for Something’s Sarah Horvitz about the changing face of local politics and how to elect diverse representation.</description>
+      <description>&lt;p&gt;Starting in 2017, a wave of new political candidates began pursuing elected office at all levels of government. Many of them have been historically underrepresented in public leadership. With the support of organizations like Run for Something, fresh faces are getting elected to serve the communities and causes they care about.&lt;/p&gt;
+
+&lt;p&gt;In this episode of The Government We Need, we talk with Sarah Horvitz, National Political Director of &lt;a href=&quot;https://runforsomething.net/&quot;&gt;Run for Something&lt;/a&gt;. Sarah ran for an elected position on her local school board while she was still a high school student, and she won! She became passionate about ensuring that our public institutions are reflective of the people they govern, and went on to support several political races in California. She served as the Deputy Organizing Director for Hillary Clinton’s Virginia team, along with working for her campaign in the Iowa caucuses and 3 state primaries.&lt;/p&gt;
+
+&lt;p&gt;What does diversity in government look like, and what impact can it have on society? How can younger candidates find opportunities to run and get elected into public office? Who are the successful candidates that have gone on to serve their communities and pave the way for a more diverse and inclusive government?&lt;/p&gt;
+
+&lt;p&gt;We explore these questions and more in this episode.&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/how-we-can-bring-more-diversity-into-elected-office</link>
       <guid>http://localhost:4000/episode/how-we-can-bring-more-diversity-into-elected-office</guid>
       <pubDate>Thu, 25 Jul 2019 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>The Government We Need talks with Run for Something’s Sarah Horvitz about the changing face of local politics and how to elect diverse representation.</itunes:summary>
+      <itunes:summary>&lt;p&gt;Starting in 2017, a wave of new political candidates began pursuing elected office at all levels of government. Many of them have been historically underrepresented in public leadership. With the support of organizations like Run for Something, fresh faces are getting elected to serve the communities and causes they care about.&lt;/p&gt;
+
+&lt;p&gt;In this episode of The Government We Need, we talk with Sarah Horvitz, National Political Director of &lt;a href=&quot;https://runforsomething.net/&quot;&gt;Run for Something&lt;/a&gt;. Sarah ran for an elected position on her local school board while she was still a high school student, and she won! She became passionate about ensuring that our public institutions are reflective of the people they govern, and went on to support several political races in California. She served as the Deputy Organizing Director for Hillary Clinton’s Virginia team, along with working for her campaign in the Iowa caucuses and 3 state primaries.&lt;/p&gt;
+
+&lt;p&gt;What does diversity in government look like, and what impact can it have on society? How can younger candidates find opportunities to run and get elected into public office? Who are the successful candidates that have gone on to serve their communities and pave the way for a more diverse and inclusive government?&lt;/p&gt;
+
+&lt;p&gt;We explore these questions and more in this episode.&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>29:14</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-2.mp3" type="audio/mpeg" length="42091124" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-2.mp3" />
@@ -203,16 +451,26 @@
     
     <item>
       <title>How government can secure us in the internet+ era</title>
-      <description>The Government We Need talks with Bruce Schneier about internet+ security and government’s role in keeping us safe.</description>
+      <description>&lt;p&gt;The internet was not originally designed with security in mind. In the early days, this was OK, but today the landscape is more complicated because, in the internet+ era, nearly everything is connected to the internet. A spreadsheet crashes, and you lose your data. A heart device crashes, and you lose your life. Both are computers, maybe connected to the same CPU or operating system. The only difference is that the computers are attached to different things.&lt;/p&gt;
+
+&lt;p&gt;In this episode of The Government We Need, we interview Bruce Schneier, an American cryptographer, computer security professional, privacy specialist and writer. Bruce is a fellow at the Berkman Center for Internet &amp;amp; Society at Harvard University and a lecturer at the Harvard Kennedy School of Government. His influential newsletter “Crypto-Gram” and his blog “Schneier on Security” are read by over 250,000 people. He is the author of over one dozen books — including his latest, &lt;a href=&quot;https://www.schneier.com/books/click_here/&quot;&gt;Click Here to Kill Everybody: Security and Survival in a Hyper-connected World&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Government has a duty of care that private companies do not. The free market doesn’t reward safety and security, so the government must step in. The government regulates stuff that kills people, and now the internet is one of those things, so the question is what does the government need to do to effectively regulate the internet+ world and keep us safe?&lt;/p&gt;
+</description>
       <link>http://localhost:4000/episode/how-government-can-secure-us-in-the-internet-era</link>
       <guid>http://localhost:4000/episode/how-government-can-secure-us-in-the-internet-era</guid>
       <pubDate>Wed, 19 Jun 2019 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
-      <itunes:summary>The Government We Need talks with Bruce Schneier about internet+ security and government’s role in keeping us safe.</itunes:summary>
+      <itunes:summary>&lt;p&gt;The internet was not originally designed with security in mind. In the early days, this was OK, but today the landscape is more complicated because, in the internet+ era, nearly everything is connected to the internet. A spreadsheet crashes, and you lose your data. A heart device crashes, and you lose your life. Both are computers, maybe connected to the same CPU or operating system. The only difference is that the computers are attached to different things.&lt;/p&gt;
+
+&lt;p&gt;In this episode of The Government We Need, we interview Bruce Schneier, an American cryptographer, computer security professional, privacy specialist and writer. Bruce is a fellow at the Berkman Center for Internet &amp;amp; Society at Harvard University and a lecturer at the Harvard Kennedy School of Government. His influential newsletter “Crypto-Gram” and his blog “Schneier on Security” are read by over 250,000 people. He is the author of over one dozen books — including his latest, &lt;a href=&quot;https://www.schneier.com/books/click_here/&quot;&gt;Click Here to Kill Everybody: Security and Survival in a Hyper-connected World&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Government has a duty of care that private companies do not. The free market doesn’t reward safety and security, so the government must step in. The government regulates stuff that kills people, and now the internet is one of those things, so the question is what does the government need to do to effectively regulate the internet+ world and keep us safe?&lt;/p&gt;
+</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>35:58</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/" />
+      <itunes:image href="http://localhost:4000/assets/img/avatar-episode.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/tgwn-1.mp3" type="audio/mpeg" length="51792375" />
       <spotify:audio url="http://localhost:4000/assets/audio/tgwn-1.mp3" />
