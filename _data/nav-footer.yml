@@ -3,13 +3,13 @@ docs:
 
 - 
   - title: Subscribe
-    url: /subscribe/
+    url: /subscribe
 
   - title: Episodes
-    url: /episodes/
+    url: /episodes
 
   - title: About
-    url: /about/
+    url: /about
 
   - title: GovFresh
     url: https://govfresh.com
