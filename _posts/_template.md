@@ -2,7 +2,7 @@
 title: ""
 description: "."
 excerpt: "."
-date: YYYY-MM-DD
+date: YYYY-MM-DD -0700
 categories:
   - Accessibility
   - Artificial intelligence

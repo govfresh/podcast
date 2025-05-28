@@ -31,6 +31,45 @@
 
     
     <item>
+      <title>Hack to the Future with Emily Crose</title>
+      <description>&lt;p&gt;In &lt;a href=&quot;https://govfresh.com/books/hack-to-the-future&quot;&gt;Hack to the Future: How World Governments Relentlessly Pursue and Domesticate Hackers&lt;/a&gt;, Emily Crose offers a cultural, historical and legal schooling on government’s approach to hackers and hacking.&lt;/p&gt;
+
+&lt;p&gt;The relationship between hackers and the government has evolved over the decades, from combative to somewhat congenial, but it’s continuously complicated.&lt;/p&gt;
+
+&lt;p&gt;In this episode, Emily and I discuss the evolution of hacking and how governments can better work with hackers, particularly in recruiting them for public service.&lt;/p&gt;
+
+&lt;p&gt;My big takeaway from talking with Emily is that hacking is not about just one person or group, but a community built on creativity and joy, of people who are artists who also happen to be technologists. If government can better grok this, we’ll have a more symbiotic and productive relationship between the bureaucracy and hackers that better serves us all.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-emily&quot;&gt;About Emily&lt;/h2&gt;
+
+&lt;p&gt;Emily Crose is a cybersecurity expert with over 13 years of experience, including roles at the National Security Agency, Central Intelligence Agency, and U.S. Army INSCOM. She has worked in both offensive and defensive network security, specializing in Industrial Control Systems (ICS) for sectors like energy and transportation. Currently a research manager at &lt;a href=&quot;https://www.sophos.com/en-us&quot;&gt;Sophos Labs&lt;/a&gt;, she focuses on Linux behavior and ICS security. Crose is a respected speaker, having briefed military and corporate leaders, and collaborates with the &lt;a href=&quot;https://www.spymuseum.org&quot;&gt;International Spy Museum&lt;/a&gt;. An advocate for transparency and counter-extremism, she also educates on cyberwar threats and privacy protection.&lt;/p&gt;
+</description>
+      <link>http://localhost:4000/episode/hack-to-the-future-with-emily-crose</link>
+      <guid>http://localhost:4000/episode/hack-to-the-future-with-emily-crose</guid>
+      <pubDate>Wed, 28 May 2025 00:00:00 -0700</pubDate>
+      <itunes:author>GovFresh</itunes:author>
+      <itunes:summary>&lt;p&gt;In &lt;a href=&quot;https://govfresh.com/books/hack-to-the-future&quot;&gt;Hack to the Future: How World Governments Relentlessly Pursue and Domesticate Hackers&lt;/a&gt;, Emily Crose offers a cultural, historical and legal schooling on government’s approach to hackers and hacking.&lt;/p&gt;
+
+&lt;p&gt;The relationship between hackers and the government has evolved over the decades, from combative to somewhat congenial, but it’s continuously complicated.&lt;/p&gt;
+
+&lt;p&gt;In this episode, Emily and I discuss the evolution of hacking and how governments can better work with hackers, particularly in recruiting them for public service.&lt;/p&gt;
+
+&lt;p&gt;My big takeaway from talking with Emily is that hacking is not about just one person or group, but a community built on creativity and joy, of people who are artists who also happen to be technologists. If government can better grok this, we’ll have a more symbiotic and productive relationship between the bureaucracy and hackers that better serves us all.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-emily&quot;&gt;About Emily&lt;/h2&gt;
+
+&lt;p&gt;Emily Crose is a cybersecurity expert with over 13 years of experience, including roles at the National Security Agency, Central Intelligence Agency, and U.S. Army INSCOM. She has worked in both offensive and defensive network security, specializing in Industrial Control Systems (ICS) for sectors like energy and transportation. Currently a research manager at &lt;a href=&quot;https://www.sophos.com/en-us&quot;&gt;Sophos Labs&lt;/a&gt;, she focuses on Linux behavior and ICS security. Crose is a respected speaker, having briefed military and corporate leaders, and collaborates with the &lt;a href=&quot;https://www.spymuseum.org&quot;&gt;International Spy Museum&lt;/a&gt;. An advocate for transparency and counter-extremism, she also educates on cyberwar threats and privacy protection.&lt;/p&gt;
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>51:39</itunes:duration>
+    
+      <itunes:image href="http://localhost:4000/assets/img/people/emily-crose-episode-feat.png" />
+    
+      <enclosure url="http://localhost:4000/assets/audio/govfresh-podcast-13.mp3" type="audio/mpeg" length="74369067" />
+      <spotify:audio url="http://localhost:4000/assets/audio/govfresh-podcast-13.mp3" />
+    </item>
+    
+    <item>
       <title>Government PDFs</title>
       <description>&lt;p&gt;The PDF, short for portable document format, is a file format created by Adobe that lets people easily create documents.&lt;/p&gt;
 
@@ -54,7 +93,7 @@
 </description>
       <link>http://localhost:4000/episode/government-pdfs</link>
       <guid>http://localhost:4000/episode/government-pdfs</guid>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 -0700</pubDate>
       <itunes:author>GovFresh</itunes:author>
       <itunes:summary>&lt;p&gt;The PDF, short for portable document format, is a file format created by Adobe that lets people easily create documents.&lt;/p&gt;
 
