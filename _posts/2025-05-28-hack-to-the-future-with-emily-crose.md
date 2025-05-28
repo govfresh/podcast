@@ -13,8 +13,8 @@ audio: govfresh-podcast-13.mp3
 audio_length: 74369067
 duration: "51:39"
 img-feat: emily-crose.jpg
-img-og: episode-emily-crose-episode-og.png
-img-cover: emily-crose-episode-feat.png
+img-og: emily-crose-episode-og.png
+img-cover: episode-emily-crose.png
 img-alt: "Emily Crose"
 short-name: Emily
 email: 

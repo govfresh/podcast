@@ -63,7 +63,7 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>51:39</itunes:duration>
     
-      <itunes:image href="http://localhost:4000/assets/img/people/emily-crose-episode-feat.png" />
+      <itunes:image href="http://localhost:4000/assets/img/people/episode-emily-crose.png" />
     
       <enclosure url="http://localhost:4000/assets/audio/govfresh-podcast-13.mp3" type="audio/mpeg" length="74369067" />
       <spotify:audio url="http://localhost:4000/assets/audio/govfresh-podcast-13.mp3" />
