@@ -28,22 +28,6 @@ github: https://github.com/abquirarte
 twitter: https://x.com/abquirarte
 linkedin: https://www.linkedin.com/in/angelicaquirarte/
 links:
-  - title: California domain name policy
-  - url: 
-  - title: California open data policy
-  - url: 
-  - title: CalData
-  - url: 
-  - title: California web standards policy
-  - url: 
-  - title: Digital Services Network
-  - url: 
-  - title: California 2019 Budget- Creation of ODI
-  - url: 
-  - title: How civic hackers helped California’s DMV get digital momentum
-  - url: 
-  - title: Francis Maude 2013 Letter on Open Government and Digital Strategy in UK
-  - url: 
 ---
 
 In December of 2019, a small, ad hoc team assembled for a 90-day experimental project. Called California Alpha, its goal was to help the state rethink government digital service delivery. Its members – picked from government and private sector – had never collectively worked together. Their mission was to create – in three months – a culture and product that embodied a new way of delivering services to Californians – one that focused on designing for user needs and challenged the status quo of digital delivery in state government.
