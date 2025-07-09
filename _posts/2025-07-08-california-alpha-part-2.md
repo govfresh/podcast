@@ -42,7 +42,7 @@ This conversation includes Alpha team members Kimberly Glenn, Aaron Hans, Art Kh
 
 Be sure to also listen to [California Alpha (Part 1)](/episode/california-alpha-part-1), where Angie discusses setting the Alpha foundation.
 
-## Links
+## Links 
 
 * [California’s Alpha Team Takes on Real-Time .Gov Redesign](https://www.govtech.com/gov-experience/Californias-Alpha-Team-Takes-on-Real-Time-Gov-Redesign.html)
 * [State Website Redesign Could Influence Other Departments, Processes](https://insider.govtech.com/california/news/state-website-redesign-could-influence-other-departments-processes.html)
