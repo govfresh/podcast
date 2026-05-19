@@ -32,6 +32,7 @@ permalink: /feed.xml
     </itunes:owner>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+    <itunes:new-feed-url>https://govfresh.com/podcast/feed.xml</itunes:new-feed-url>
 
     {% for post in site.posts %}
     <item>
